@@ -1,0 +1,22 @@
+*{font-size: 14px; padding: 0px; margin: 0; line-height: 1.5em;}
+
+
+body {
+    background-color: burlywood;
+}
+
+@font-face {
+    font-family: Abbey;
+    src: url('Abbey.ttf');
+} 
+p 
+{
+    font-size: 25px;
+    font-family: Abbey;
+}
+h1
+ {
+    
+    font-size: 45px;
+    font-family: Abbey;
+}
